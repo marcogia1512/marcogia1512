@@ -19,12 +19,21 @@
 
 ### 📂 Projects
 
-I'm currently organizing my hands-on labs and technical projects to share my learning journey.
+### Featured Project – Network Toolkit
 
-Projects will include:
-- Network scanning and traffic analysis
-- Vulnerability assessment in lab environments
-- Linux troubleshooting and system administration
+**[Network Toolkit – Python Team Project](https://github.com/tommasomolino/Project-Work-Molino-Regaldo)**
+
+Academic team project developed during the Python Programming course at ITS Academy ICT Piemonte.
+
+A command-line toolkit for networking operations, including:
+- DNS lookups (A, AAAA, MX and TXT records)
+- TCP port scanning
+- VLSM subnet calculations
+- Structured JSON output
+
+**My contribution:** Collaborated on the development of networking tools and technical documentation, working alongside a fellow student with AI-assisted development support.
+
+**Technologies:** Python, DNS, TCP/IP, Networking, JSON.
 
 ### 🚀 Background & Goals
 
