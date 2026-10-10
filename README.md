@@ -34,6 +34,15 @@ A command-line toolkit for networking operations, including:
 **My contribution:** Collaborated on the development of networking tools and technical documentation, working alongside a fellow student with AI-assisted development support.
 
 **Technologies:** Python, DNS, TCP/IP, Networking, JSON.
+### Personal Python Projects
+
+**[CTF Decoder – Python Decoding Challenges](https://github.com/marcogia1512/CTF_Decoder)**
+
+An educational project exploring hexadecimal, Base64, byte manipulation, and basic CTF problem-solving through Python exercises. Includes nine implemented levels and one incomplete challenge.
+
+**[RuneMaster – Python Password Generator](https://github.com/marcogia1512/RuneMaster_password_generator_sicuro)**
+
+One of my first Python projects, developed to practice programming fundamentals and explore password generation using the `secrets` module. Shared for educational purposes, with known limitations documented in the repository.
 
 ### 🚀 Background & Goals
 
